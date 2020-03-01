@@ -6,7 +6,7 @@
 
 **Open Machine Learning Course in Dubai**
 
-[![Slack](https://img.shields.io/badge/slack-ods.ai-green)]()
+[![Slack](https://img.shields.io/badge/slack-ods.ai-green)](https://docs.google.com/forms/d/e/1FAIpQLSd5JX9NCguEe4GKHLl01oee-6019VL0hAiNrfBYWAOK0eOZ4w/viewform)
 [![Meetup.com](https://img.shields.io/badge/Meetup.com-blue)](https://www.meetup.com/Dubai-Data-Science-Meetup/events/)
 
 </div>
@@ -37,14 +37,14 @@ Ratings are updated after each assignment. The link can be found here - https://
 
 Current deadlines (see also the assignments page):
 
-TBA
+A1. Pandas and data analysis. **Deadline: 03.03.2020 23:59**
 
 All deadlines are 23:59 (Dubai time).
 
 ### Assignments
 Assignments are announced in the **#mlcourse_dubai** channel in ODS Slack team (pinned items). Also, links to fresh assignments are provided in the Readme file of the course repository. Apart from that, you can practice with demo assignments, don’t confuse them with “real” ones
 
-TBA
+A1. Pandas and data analysis. **Deadline: 03.03.2020 23:59**
 
 ### Quizzes & Live sessions
 Quizzes are intended to check your understanding of theory behind the applied approaches. Will be announced in the #mlcourse_dubai channel as well.
