@@ -16,6 +16,7 @@ This is repository with all meterials for ML course in Dubai which is held in sp
 The course starts on 19th of February. The event will be hold by Hult International Business School.
 All lectures will be covered by tutors with the practical experience from Reactor, FICO, Deloitte, VISA, American University of Sharjah.
 
+
 ### Schedule of Lectures
 0. Introduction, 19.02.2020
 1. Exploratory Data Analysis with Pandas, 25.03.2020
@@ -24,10 +25,10 @@ All lectures will be covered by tutors with the practical experience from Reacto
 4. Logistic Regression, 15.04.2020
 5. Ensembles and Random Forest 22.04.2020
 6. Logistic Regression 30.04.2020
-7. Unsupervised Learning: Principal Component Analysis and Clustering 06.04.2020
-8. Time Series Analysis with Python
-9. SGD with Vowpal Wabbit
-10. Gradient Boosting and CatBoost
+7. Unsupervised Learning: Principal Component Analysis and Clustering 06.05.2020
+8. Gradient Descent and SGD 13.05.2020
+9. Time Series Analysis with Python 20.05.2020
+10. Gradient Boosting and CatBoost 27.05.2020
 
 ### Video Recordings:
 
@@ -47,12 +48,23 @@ A2. Visualization 07.04.2020
 
 A4. Linear Regression 23.04.2020
 
+A5. Kaggle competition #1 30.04.2020
+
+A6. Ensembles, bagging, Random Forest 31.04.2020
+
+A7. Kaggle competition #2 06.06.2020
+
+A8. SGD 23.05.2020
+
+A9. 
+
 All deadlines are 23:59 (Dubai time).
 
 ### Kaggle competitions
 
 1. [Decision Trees and KNN](https://www.kaggle.com/c/ods-mlclass-dubai-2019-03-lecture3-hw) **Deadline: 30.04.2020**
 
+2. [Genres classification](https://www.kaggle.com/c/mlclass-dubai-by-ods-lecture-5-hw) **Deadline: 06.06.2020**
 
 ### Community
 Our community website with all [events](https://www.meetup.com/Dubai-Data-Science-Meetup/events/)
